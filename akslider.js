@@ -66,7 +66,7 @@ angular.module('akSlider', [])
            } 
           }
          //animationiteration  -- basic Idea from David Walsh & Modernizer
-         
+       
          function whichIterationEvent(){
            var t, el = document.createElement("fakeelement");
 
