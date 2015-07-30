@@ -34,13 +34,13 @@ Usage:
 HTML: 
 
   Simplest form:  
-    This will work fine with all the default options.
+  This will work fine with all the default options.
     
-   <ak-slider id="b1"  images="{{images3}}"></ak-slider> 
+     <ak-slider id="b1"  images="{{images3}}"></ak-slider> 
    
    if you want the slider without thumbnail then set the thumnail to false:
    
-   <ak-slider id="b1"  images="{{images3}}" thumbnail="false"></ak-slider> 
+     <ak-slider id="b1"  images="{{images3}}" thumbnail="false"></ak-slider> 
    
    For having differnt style of animation other than zoom and delay less or greater than 5 seconds: 
    
